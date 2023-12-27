@@ -1,0 +1,182 @@
+
+.body{
+  overflow-x:hidden
+}
+
+
+.logo{
+    width:10%;
+    height:2.5%;
+}
+
+.txt_allign{
+  text-align: justify;
+}
+ 
+.font_bold{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.font_cat{
+  font-size: 15px;
+  color: #596275;
+  font-weight: bold;
+}
+
+.margins_heading{
+  margin-top: 25px;
+  font-weight: bold;
+}
+
+.login-form {
+  width: 100%;
+}
+
+.login-form-title {
+  display: block;
+  font-family: Poppins-Bold;
+  font-size: 39px;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.produc-img{
+  width: 100px;
+  object-fit: contain;
+}
+
+.card-img-top{
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+}
+
+.emoji{
+  width: 10px;
+  height: auto;
+}
+
+
+
+.image_select:hover{
+  opacity: 0.5;
+  color: #FFF;
+}
+
+.profile_img{
+  width:900%;
+  margin:auto;
+  display:block;
+  object-fit:contain;
+}
+
+/*--- Buttons ----*/
+.primary-btn {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: #D10024;
+  border: none;
+  border-radius:10px;
+  color: #FFF;
+  text-transform: uppercase;
+  
+  text-align: center;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+
+.primary-btn:hover, .primary-btn:focus {
+  opacity: 0.5;
+  color: #FFF;
+}
+
+.secondary_btn{
+  background-color: #e76143;
+  color: #FFF;
+  
+}
+
+.secondary_btn:hover{
+  color:#f7f1e3;
+font-weight: bold;
+opacity: 0.9;
+color: #FFF;
+}
+
+
+.btn_update{
+  background-color: #16a085;
+color: #FFF;
+}
+
+.btn_update:hover{
+  color:#f7f1e3;
+  opacity: 0.9;
+}
+
+
+
+  /*------- footer------*/
+  .footercolor div{
+    color:#BDC581;
+
+  }
+
+#footer {
+  background: #15161D;
+  color: #B9BABC;
+}
+
+#bottom-footer {
+  background: #1E1F29;
+}
+
+.footer {
+  margin: 30px 0px;
+}
+
+.footer .footer-title {
+  color: #FFF;
+  text-transform: uppercase;
+  font-size: 18px;
+  margin: 0px 0px 30px;
+}
+
+.footer-links li+li {
+  margin-top: 15px;
+}
+
+.footer-links li a {
+  color: #4834DF;
+}
+
+.footer-links li i {
+  margin-right: 15px;
+  color: #D10024;
+  width: 14px;
+  text-align: center;
+}
+
+.footer-links li a:hover {
+  color: #E71C23;
+}
+
+.copyright {
+  margin-top: 30px;
+  display: block;
+  font-size: 12px;
+}
+
+.footer-payments li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.footer-payments li a {
+  color: #15161D;
+  font-size: 36px;
+  display: block;
+}
+
